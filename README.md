@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
 </div>
 
-<h1 align="center">🌐 Enterprise Network Automation & Operations Platform</h1>
+<h1 align="center">🌐 NetOps- Network Automation and Operations Platform</h1>
 
 <p align="center">
   <strong>A multi-branch enterprise network built in GNS3 and fully automated end-to-end with Python & Netmiko.</strong>
